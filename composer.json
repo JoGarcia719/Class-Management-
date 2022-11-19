@@ -1,0 +1,17 @@
+{
+    "name": "user/pdc10-classes-main",
+    "autoload": {
+        "psr-4": {
+            "User\\Pdc10ClassesMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoGarcia719",
+            "email": "garcia.josephandrew@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
